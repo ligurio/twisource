@@ -1,13 +1,13 @@
 ---
 
-# - max lenght of tweet is 140 symbols
+# - Max length of tweet is 140 symbols
 # - 1-3 PM is the best time to tweet
-# - available twitter accounts: __criu__, _openvz_, ProcessHauler
-# - tweets with tag #fb will be posted to facebook page as well
-# - newer tweets are on top
-# - tweets are in english only
-# - "RT tweet_id" is a retweet
-# - schedule same tweets again and again
+# - Available Twitter accounts: __criu__, _openvz_, ProcessHauler
+# - Tweets with tag #fb will be posted to OpenVZ Facebook page as well
+# - Newer tweets are on top
+# - Tweets are in English only
+# - 'RT tweet_id' instead of message text will produce retweet
+# - Schedule same tweets several times
 
 - account: _openvz_
   text: Kernel RHEL6 042stab111.11
