@@ -1,0 +1,26 @@
+---
+
+# - max lenght of tweet is 140 symbols
+# - 1-3 PM is the best time to tweet
+# - available twitter accounts: __criu__, _openvz_, ProcessHauler
+# - tweets with tag #fb will be posted to facebook page as well
+# - newer tweets are on top
+# - tweets are in english only
+# - "RT tweet_id" is a retweet
+# - schedule same tweets again and again
+
+- account: _openvz_
+  text: Kernel RHEL6 042stab111.11
+  date: 2015-09-15 11:12
+
+- account: _openvz_
+  text: RT 633359719097233408
+  date: 2015-09-14 10:50
+
+- account: _openvz_
+  text: Running Docker containers inside Virtuozzo container http://youtu.be/rh4oPpLtdYc
+  date: 2015-09-14 18:31
+
+- account: ProcessHauler
+  text: P.Haul source code on GitHub https://github.com/xemul/p.haul
+  date: 2015-09-14 04:14
