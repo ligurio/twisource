@@ -5,12 +5,21 @@ Allows updating status on Twitter from source file.
 
 ## Installation
 
-- pip install -r requirements.txt
-- add tweets to tweets.yml
-- create files with account credentials
-- make lint
-- git commit -a
-- git push
+- Install Python requirements
+
+ $ pip install -r requirements.txt
+
+- Add tweets to tweets.yml.
+- Create file(s) with account(s) credentials.
+- Validate source file with scheduled tweets:
+
+ $ ./twisource --lint
+
+- Commit updated file and publish tweets:
+
+ $ git commit -a
+ $ git push
+ $ ./twisource --publish
 
 ## Getting access tokens
 
