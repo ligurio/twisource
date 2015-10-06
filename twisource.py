@@ -7,6 +7,7 @@ import os
 import re
 import requests
 import tweepy
+import datetime
 import yaml
 try:
         import json
@@ -75,8 +76,12 @@ def main():
 
     for t in tweets:
         print "[DEBUG]", t['date']
-        if not lint(t['text'],t['date'],t['account']):
-           tweeter(t['text'], t['account'])
+        d = datetime.datetime.now()
+        if t['date'] == d.strftime("%Y-%m-%d %H:%M"):
+           print "[DEBUG] Print @", t['account'], t['text']
+        if not lint(t['text'], t['date'], t['account']):
+           #tweeter(t['text'], t['account'])
+           print "-"
         print "\n"
     f.close
 
@@ -91,4 +96,4 @@ if __name__ == '__main__':
     elif args.publish:
        print "[DEBUG] publish"
 
-	#main()
+    main()
