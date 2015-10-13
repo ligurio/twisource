@@ -59,7 +59,7 @@ def tweeter(message, account, mode):
     api = tweepy.API(auth)
     rt_id = getRTid(message)
     if rt_id:
-       print "[DEBUG] account:", account, "RT https://twitter.com/statuses/", rt_id
+       print "[DEBUG] account: %s RT https://twitter.com/statuses/%s" % (account, rt_id)
     else:
        print "[DEBUG] account:", account, "Message = ", message
     if not rt_id:
