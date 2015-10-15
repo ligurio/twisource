@@ -9,6 +9,19 @@
 # - 'RT tweet_id' will produce retweet
 # - Schedule same tweets several times
 # - Mention other projects n tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
+# - Specified time is in MSK timezone (Europe/Moscow)
+
+- account: _openvz_
+  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials CC // @mperkel @roidrage"
+  date: 2015-10-22 19:55
+
+- account: _openvz_
+  text: "We have updated our OpenVZ store store.openvz.org You'll find merchandise with the OpenVZ logo on t-shirts, mugs, stickers, and more. #fb"
+  date: 2015-10-20 18:50
+
+- account: _openvz_
+  text: "OpenVZ Continuous Integration server https://ci.openvz.org/ #fb"
+  date: 2015-10-18 19:55
 
 - account: _openvz_
   text: "Call for testing: Start CT in a new user namespace: 1:1 user mapping https://goo.gl/EO1RG4"
