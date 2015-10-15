@@ -61,9 +61,9 @@ def tweeter(message, account, mode):
     api = tweepy.API(auth)
     rt_id = getRTid(message)
     if rt_id:
-       print "[DEBUG] account: %s RT https://twitter.com/statuses/%s" % (account, rt_id)
+       print "[DEBUG] %s: RT https://twitter.com/statuses/%s" % (account, rt_id)
     else:
-       print "[DEBUG] account:", account, "Message = ", message
+       print "[DEBUG] %s: %s" % (account, message)
     if not rt_id:
        if mode:
           print "[DEBUG] Posting a message", message
@@ -82,7 +82,7 @@ def main(mode):
     d = datetime.datetime.now(timezone(tz))
     print "[DEBUG] Time in timezone %s - %s" % (tz, d.strftime("%Y-%m-%d %H:%M"))
     for t in tweets:
-        if not lint(t['text'], t['date'], t['account']) and not mode:
+        if t['date'] >= d.strftime("%Y-%m-%d %H:%M") and not lint(t['text'], t['date'], t['account']) and not mode:
            tweeter(t['text'], t['account'], mode)
         if t['date'] == d.strftime("%Y-%m-%d %H:%M") and not lint(t['text'], t['date'], t['account']) and mode:
            tweeter(t['text'], t['account'], mode)
