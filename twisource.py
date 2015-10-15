@@ -7,6 +7,7 @@ import os
 import re
 import requests
 import tweepy
+from pytz import timezone
 import datetime
 import yaml
 try:
@@ -15,6 +16,7 @@ except ImportError:
         import simplejson as json
 from collections import defaultdict
 
+tz = 'Europe/Moscow'
 tweet_file = 'tweets.yml'
 
 def shorten(url):
@@ -78,7 +80,7 @@ def main(mode):
          tweets = yaml.load(f)
 
     for t in tweets:
-        d = datetime.datetime.now()
+        d = datetime.datetime.now(timezone(tz))
         if not lint(t['text'], t['date'], t['account']) and not mode:
            tweeter(t['text'], t['account'], mode)
         if t['date'] == d.strftime("%Y-%m-%d %H:%M") and not lint(t['text'], t['date'], t['account']) and mode:
