@@ -11,17 +11,9 @@
 # - Mention other projects n tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
 
 - account: _openvz_
-  text: Kernel RHEL6 042stab111.11
-  date: 2015-09-15 11:12
+  text: "Call for testing: Start CT in a new user namespace: 1:1 user mapping https://goo.gl/EO1RG4"
+  date: 2015-10-15 14:50
 
 - account: _openvz_
-  text: RT 633359719097233408
-  date: 2015-09-14 10:50
-
-- account: _openvz_
-  text: Running Docker containers inside Virtuozzo container http://youtu.be/rh4oPpLtdYc
-  date: 2015-09-14 18:31
-
-- account: ProcessHauler
-  text: P.Haul source code on GitHub https://github.com/xemul/p.haul
-  date: 2015-09-14 04:14
+  text: "Fence watchdog feature in #Virtuozzo 7 kernel https://goo.gl/sNwK86"
+  date: 2015-10-15 11:53
