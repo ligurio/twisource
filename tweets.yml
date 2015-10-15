@@ -11,8 +11,45 @@
 # - Mention other projects n tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
 # - Specified time is in MSK timezone (Europe/Moscow)
 
+# Why Groupon uses FreeBSD
+- account: estet
+  text: RT 613995971966447616
+  date: 2015-10-26 11:15
+
 - account: _openvz_
-  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials CC // @mperkel @roidrage"
+  text: "What online/off-line news sites/journals/blogs do you read related to linux and/or sysadmin? What is popular this days?"
+  date: 2015-10-25 17:34
+
+# Why @facebook uses open source: 1) accelerates innovation 2) write better software 3) share our challenges
+- account: estet
+  text: RT 623894255598219264
+  date: 2015-10-22 18:15
+
+# Community is not a product and shouldn't be mentioned in the same sentence as ROI
+- account: estet
+  text: RT 629504195058532352
+  date: 2015-10-21 17:34
+
+- account: estet
+  text: RT 634005907165323264
+  date: 2015-10-20 11:34
+
+- account: estet
+  text: "Microsoft Solitaire was designed to teach people drag-n-drop, and Minesweeper to practice left-n-right mouse clicking http://goo.gl/BgeG4t"
+  date: 2015-10-19 11:34
+
+# FOSDEM
+- account: _openvz_
+  text: RT 639141960553512962
+  date: 2015-10-19 12:55
+
+# OSSDEVCONF
+- account: _openvz_
+  text: RT 653708337872273412
+  date: 2015-10-16 15:55
+
+- account: _openvz_
+  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. CC // @mperkel @roidrage."
   date: 2015-10-22 19:55
 
 - account: _openvz_
@@ -22,6 +59,10 @@
 - account: _openvz_
   text: "OpenVZ Continuous Integration server https://ci.openvz.org/ #fb"
   date: 2015-10-18 19:55
+
+- account: estet
+  text: "Три закона критики. Все наверное уже читали, но многие мои коллеги про них не знали. http://goo.gl/WUVcAG"
+  date: 2015-10-15 17:48
 
 - account: _openvz_
   text: "Call for testing: Start CT in a new user namespace: 1:1 user mapping https://goo.gl/EO1RG4"
