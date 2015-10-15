@@ -13,6 +13,10 @@
 # - Call for testing, TRD
 
 - account: _openvz_
+  text: "About 60% of code from OpenVZ Linux kernel has been upstreamed http://goo.gl/euxxTW"
+  date: 2015-12-03 20:34
+
+- account: _openvz_
   text: "Containers storage backends https://wiki.openvz.org/CT_storage_backends"
   date: 2015-12-02 18:34
 
@@ -74,8 +78,12 @@
   date: 2015-10-18 19:55
 
 - account: estet
+  text: "Red Hatters analyze twitter statistics using this script and sqlite https://goo.gl/iwXhcX @rikkiends"
+  date: 2015-10-16 16:55
+
+- account: estet
   text: "Три закона критики. Все наверное уже читали, но многие мои коллеги про них не знали. http://goo.gl/WUVcAG"
-  date: 2015-10-15 17:48
+  date: 2015-10-15 22:37
 
 - account: _openvz_
   text: "Call for testing: Start CT in a new user namespace: 1:1 user mapping https://goo.gl/EO1RG4"
