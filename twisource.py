@@ -81,6 +81,7 @@ def main(mode):
 
     for t in tweets:
         d = datetime.datetime.now(timezone(tz))
+        print "[DEBUG] Time in our timezone", d.strftime("%Y-%m-%d %H:%M")
         if not lint(t['text'], t['date'], t['account']) and not mode:
            tweeter(t['text'], t['account'], mode)
         if t['date'] == d.strftime("%Y-%m-%d %H:%M") and not lint(t['text'], t['date'], t['account']) and mode:
