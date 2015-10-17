@@ -73,11 +73,11 @@
   date: 2015-10-18 19:55
 
 - account: _openvz_
-  text: "What's missing from upstream kernel containers? -- Sergey Bronnikov (in Russian) #OSDEVCONF2015 // CC: @estet"
+  text: "What's missing from upstream kernel containers? -- Sergey Bronnikov (in Russian) http://goo.gl/qh59P0 #OSDEVCONF2015 // CC: @estet"
   date: 2015-10-17 19:03
 
 - account: __criu__
-  text: "Живая миграция: плюсы, минусы и подводные камни -- Павел Емельянов (in Russian) #OSDEVCONF2015 // CC: xemulp@"
+  text: "Живая миграция: плюсы, минусы и подводные камни -- Павел Емельянов http://goo.gl/YqIcWN (in Russian) #OSDEVCONF2015 // CC: xemulp@"
   date: 2015-10-17 19:03
 
 # OSSDEVCONF
