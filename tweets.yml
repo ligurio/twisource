@@ -48,7 +48,7 @@
   date: 2015-10-20 11:34
 
 - account: _openvz_
-  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. CC // @mperkel @roidrage."
+  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
   date: 2015-10-22 19:55
 
 - account: __criu__
@@ -73,8 +73,8 @@
   date: 2015-10-18 19:55
 
 - account: __criu__
-  text: "Живая миграция: плюсы, минусы и подводные камни -- Павел Емельянов http://goo.gl/YqIcWN (in Russian) #OSDEVCONF2015 // CC: xemulp@"
-  date: 2015-10-17 22:52
+  text: "Живая миграция: плюсы, минусы и подводные камни -- Павел Емельянов http://goo.gl/YqIcWN (in Russian) #OSDEVCONF2015 // CC: @xemulp"
+  date: 2015-10-17 22:56
 
 - account: _openvz_
   text: "What's missing from upstream kernel containers? -- Sergey Bronnikov (in Russian) http://goo.gl/qh59P0 #OSDEVCONF2015 // CC: @estet"
