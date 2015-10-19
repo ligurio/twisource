@@ -43,10 +43,6 @@
   text: RT 629504195058532352
   date: 2015-10-21 17:34
 
-- account: estet
-  text: RT 634005907165323264
-  date: 2015-10-20 11:34
-
 - account: _openvz_
   text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
   date: 2015-10-22 19:55
@@ -54,6 +50,15 @@
 - account: __criu__
   text: "Kir Kolyshkin @kolyshkin will have a talk about @__criu__ at @container_days Oct 20, NY http://goo.gl/NsX0Rf"
   date: 2015-10-21 18:34
+
+- account: estet
+  text: RT 634005907165323264
+  date: 2015-10-20 11:34
+
+# Живая миграция: плюсы, минусы и подводные камни -- Павел Емельянов
+- account: ProcessHauler
+  text: RT 655472413472231424
+  date: 2015-10-20 18:19
 
 - account: _openvz_
   text: "We have updated our OpenVZ store store.openvz.org You'll find merchandise with the OpenVZ logo on t-shirts, mugs, stickers, and more. #fb"
