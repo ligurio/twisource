@@ -24,6 +24,15 @@
   text: "Pavel Emelyanov @xemulp will have a talk about live migration of containers at @DockerCon http://europe-2015.dockercon.com/speakers"
   date: 2015-11-02 18:34
 
+# Talk about live migration at DockerCon
+- account: ProcessHauler
+  text: RT 656388201557422080
+  date: 2015-10-29 18:19
+
+- account: estet
+  text: "Twitter list with the most popular FOSS conferences: @fosdem @linuxfoundation @RedHatSummit @lveecon @devconf_cz etc https://goo.gl/8RjwJ5"
+  date: 2015-10-28 11:34
+
 # Why Groupon uses FreeBSD
 - account: estet
   text: RT 613995971966447616
@@ -61,12 +70,25 @@
   date: 2015-10-20 18:19
 
 - account: _openvz_
+  text: "Finally our main sponsor became a member of Cloud Native Computing Foundation https://cncf.io/"
+  date: 2015-10-20 17:34
+
+- account: _openvz_
+  text: "Enabling OpenVZ support in @OpenNebula http://goo.gl/fGg3du"
+  date: 2015-10-20 01:32
+
+- account: _openvz_
   text: "We have updated our OpenVZ store store.openvz.org You'll find merchandise with the OpenVZ logo on t-shirts, mugs, stickers, and more. #fb"
   date: 2015-10-20 18:50
 
 - account: __criu__
   text: "Some CRIU project metrics https://goo.gl/h0ZIGU made by @bitergia"
   date: 2015-10-20 18:34
+
+# Как Яуза превратится в парк
+- account: estet
+  text: RT 646316787206778880
+  date: 2015-10-20 20:34
 
 - account: estet
   text: "Microsoft Solitaire was designed to teach people drag-n-drop, and Minesweeper to practice left-n-right mouse clicking http://goo.gl/BgeG4t"
