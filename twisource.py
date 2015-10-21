@@ -72,7 +72,7 @@ def tweeter(message, account, mode):
     else:
        if mode:
           print "[DEBUG] Retweeting a message", rt_id
-          api.retweet(id)
+          api.retweet(rt_id)
           print "[DEBUG] Posted"
 
 def main(mode):
