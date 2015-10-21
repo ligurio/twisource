@@ -45,16 +45,28 @@
 # Why @facebook uses open source: 1) accelerates innovation 2) write better software 3) share our challenges
 - account: estet
   text: RT 623894255598219264
-  date: 2015-10-22 18:15
-
-# Community is not a product and shouldn't be mentioned in the same sentence as ROI
-- account: estet
-  text: RT 629504195058532352
-  date: 2015-10-21 17:34
+  date: 2015-10-22 00:45
 
 - account: _openvz_
   text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
   date: 2015-10-22 19:55
+
+- account: _openvz_
+  text: "All products and projects integrated with Virtuozzo/OpenVZ are our ecosystem https://goo.gl/F3JInW"
+  date: 2015-10-22 22:34
+
+- account: _openvz_
+  text: "Enabling OpenVZ support in @OpenNebula http://goo.gl/fGg3du"
+  date: 2015-10-22 10:32
+
+# Community is not a product and shouldn't be mentioned in the same sentence as ROI
+- account: estet
+  text: RT 629504195058532352
+  date: 2015-10-22 00:13
+
+- account: _openvz_
+  text: "We have updated our OpenVZ store store.openvz.org You'll find merchandise with the OpenVZ logo on t-shirts, mugs, stickers, and more. #fb"
+  date: 2015-10-20 18:50
 
 - account: __criu__
   text: "Kir Kolyshkin @kolyshkin will have a talk about @__criu__ at @container_days Oct 20, NY http://goo.gl/NsX0Rf"
@@ -73,14 +85,6 @@
   text: "Finally our main sponsor became a member of Cloud Native Computing Foundation https://cncf.io/"
   date: 2015-10-20 17:34
 
-- account: _openvz_
-  text: "Enabling OpenVZ support in @OpenNebula http://goo.gl/fGg3du"
-  date: 2015-10-20 01:32
-
-- account: _openvz_
-  text: "We have updated our OpenVZ store store.openvz.org You'll find merchandise with the OpenVZ logo on t-shirts, mugs, stickers, and more. #fb"
-  date: 2015-10-20 18:50
-
 - account: __criu__
   text: "Some CRIU project metrics https://goo.gl/h0ZIGU made by @bitergia"
   date: 2015-10-20 18:34
@@ -88,7 +92,7 @@
 # Как Яуза превратится в парк
 - account: estet
   text: RT 646316787206778880
-  date: 2015-10-20 20:34
+  date: 2015-10-22 09:34
 
 - account: estet
   text: "Microsoft Solitaire was designed to teach people drag-n-drop, and Minesweeper to practice left-n-right mouse clicking http://goo.gl/BgeG4t"
@@ -97,7 +101,7 @@
 # FOSDEM
 - account: _openvz_
   text: RT 639141960553512962
-  date: 2015-10-19 12:55
+  date: 2015-10-22 05:55
 
 - account: _openvz_
   text: "OpenVZ Continuous Integration server https://ci.openvz.org/ #fb"
