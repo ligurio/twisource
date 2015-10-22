@@ -42,6 +42,10 @@
   text: "What online/off-line news sites/journals/blogs do you read related to linux and/or sysadmin? What is popular this days?"
   date: 2015-10-25 17:34
 
+- account: _openvz_
+  text: "Look at #VirtualizationMatrix and choose solution according to your requirements https://goo.gl/1AWxCk // CC: @virtinfo"
+  date: 2015-10-23 19:55
+
 # Why @facebook uses open source: 1) accelerates innovation 2) write better software 3) share our challenges
 - account: estet
   text: RT 623894255598219264
