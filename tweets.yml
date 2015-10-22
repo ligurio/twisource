@@ -55,6 +55,10 @@
   text: "All products and projects integrated with Virtuozzo/OpenVZ are our ecosystem https://goo.gl/F3JInW"
   date: 2015-10-22 22:34
 
+- account: estet
+  text: "10 years of pkgsrc - pkgsrc and the concepts of package management 1997-2007 (part 1) https://goo.gl/7cRbyC"
+  date: 2015-10-22 13:34
+
 - account: _openvz_
   text: "Enabling OpenVZ support in @OpenNebula http://goo.gl/fGg3du"
   date: 2015-10-22 10:32
