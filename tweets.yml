@@ -61,6 +61,10 @@
   date: 2015-10-22 22:34
 
 - account: estet
+  text: "Bindings for for OpenBSD's pledge(2) https://goo.gl/CIjz0k"
+  date: 2015-10-22 19:44
+
+- account: estet
   text: "10 years of pkgsrc - pkgsrc and the concepts of package management 1997-2007 (part 1) https://goo.gl/7cRbyC"
   date: 2015-10-22 13:34
 
