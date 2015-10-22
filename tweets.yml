@@ -47,6 +47,11 @@
   text: RT 623894255598219264
   date: 2015-10-22 00:45
 
+# Kir Kolyshkin @kolyshkin will have a talk about @__criu__ at @container_days
+- account: ProcessHauler
+  text: RT 656859807215976448
+  date: 2015-10-22 23:59
+
 - account: _openvz_
   text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
   date: 2015-10-22 19:55
