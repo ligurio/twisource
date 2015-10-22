@@ -39,6 +39,10 @@
   date: 2015-10-26 11:15
 
 - account: _openvz_
+  text: "All products and projects integrated with Virtuozzo/OpenVZ are our ecosystem https://goo.gl/F3JInW"
+  date: 2015-10-26 22:34
+
+- account: _openvz_
   text: "What online/off-line news sites/journals/blogs do you read related to linux and/or sysadmin? What is popular this days?"
   date: 2015-10-25 17:34
 
@@ -46,27 +50,23 @@
   text: "Look at #VirtualizationMatrix and choose solution according to your requirements https://goo.gl/1AWxCk // CC: @virtinfo"
   date: 2015-10-23 19:55
 
-# Why @facebook uses open source: 1) accelerates innovation 2) write better software 3) share our challenges
-- account: estet
-  text: RT 623894255598219264
-  date: 2015-10-22 00:45
-
 # Kir Kolyshkin @kolyshkin will have a talk about @__criu__ at @container_days
 - account: ProcessHauler
   text: RT 656859807215976448
   date: 2015-10-22 23:59
 
-- account: _openvz_
-  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
-  date: 2015-10-22 19:55
+# Why @facebook uses open source: 1) accelerates innovation 2) write better software 3) share our challenges
+- account: estet
+  text: RT 623894255598219264
+  date: 2015-10-22 00:45
 
 - account: _openvz_
-  text: "All products and projects integrated with Virtuozzo/OpenVZ are our ecosystem https://goo.gl/F3JInW"
-  date: 2015-10-22 22:34
+  text: "OpenVZ users say the most wonderful things http://openvz.org/Testimonials Have a quote to add? Email us. // CC: @mperkel @roidrage."
+  date: 2015-10-23 19:55
 
 - account: estet
   text: "Bindings for for OpenBSD's pledge(2) https://goo.gl/CIjz0k"
-  date: 2015-10-22 19:44
+  date: 2015-10-23 10:44
 
 - account: estet
   text: "10 years of pkgsrc - pkgsrc and the concepts of package management 1997-2007 (part 1) https://goo.gl/7cRbyC"
