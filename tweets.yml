@@ -1,18 +1,5 @@
 ---
 
-# - Max length of tweet is 140 symbols
-# - 19:00-21:00 MSK is the best time to tweet
-# - Available Twitter accounts: __criu__, _openvz_, ProcessHauler
-# - Tweets with tag #fb will be posted to OpenVZ Facebook page as well
-# - Tweets should be sorted by date
-# - Main language is English
-# - 'RT tweet_id' will produce retweet
-# - Schedule same tweets several times
-# - Mention other projects in tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
-# - Time is in MSK timezone (Europe/Moscow)
-# - Categories: Call for testing, TRD
-# - Use UTM tags: https://ohmystats.com/utm or https://goo.gl/zu4WVG
-
 - account: _openvz_
   text: "About 60% of code from OpenVZ Linux kernel has been upstreamed http://goo.gl/euxxTW"
   date: 2015-12-03 20:34
