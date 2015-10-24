@@ -11,6 +11,7 @@
 # - Mention other projects in tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
 # - Time is in MSK timezone (Europe/Moscow)
 # - Categories: Call for testing, TRD
+# - Use UTM tags: https://ohmystats.com/utm or https://goo.gl/zu4WVG
 
 - account: _openvz_
   text: "About 60% of code from OpenVZ Linux kernel has been upstreamed http://goo.gl/euxxTW"
@@ -45,6 +46,10 @@
 - account: _openvz_
   text: "What online/off-line news sites/journals/blogs do you read related to linux and/or sysadmin? What is popular this days?"
   date: 2015-10-25 17:34
+
+- account: _openvz_
+  text: "Kernel RHEL6 testing 042stab112.15 with many functional fixes https://goo.gl/LdZNgw"
+  date: 2015-10-24 19:55
 
 - account: _openvz_
   text: "Look at #VirtualizationMatrix and choose solution according to your requirements https://goo.gl/1AWxCk // CC: @virtinfo"
