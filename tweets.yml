@@ -17,9 +17,33 @@
   text: RT 656388201557422080
   date: 2015-10-29 18:19
 
+- account: __criu__
+  text: "Come to our OpenVZ booth to talk about CRIU https://goo.gl/n0zXDZ"
+  date: 2015-10-29 09:19
+
+- account: _openvz_
+  text: "Don't miss talk about containers at #OpenStack Summit https://goo.gl/KXqyu9"
+  date: 2015-10-29 08:19
+
+- account: _openvz_
+  text: "Come to our OpenVZ booth to play with #Virtuozzo and #OpenStack demo."
+  date: 2015-10-29 09:19
+
 - account: estet
   text: "Twitter list with the most popular FOSS conferences: @fosdem @linuxfoundation @RedHatSummit @lveecon @devconf_cz etc https://goo.gl/8RjwJ5"
   date: 2015-10-28 11:34
+
+- account: _openvz_
+  text: "Did you know #Virtuozzo has integration with #OpenStack? https://goo.gl/OWg30m"
+  date: 2015-10-28 10:15
+
+- account: _openvz_
+  text: "Stop by our OpenVZ booth T27 to watch our demo #Virtuozzo + #OpenStack."
+  date: 2015-10-27 11:15
+
+- account: _openvz_
+  text: "We're at #OpenStack Summit at Tokyo! Stop by our OpenVZ booth T27 to meet the team and get some free swag. https://goo.gl/n0zXDZ"
+  date: 2015-10-27 08:15
 
 # Why Groupon uses FreeBSD
 - account: estet
