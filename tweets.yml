@@ -1,12 +1,35 @@
 ---
 
+# Virtuozzo + OpenStack
+- account: __criu__
+  text: RT 659267322444578816
+  date: 2015-11-05 19:04
+
+# Tonic notebooks
+- account: __criu__
+  text: RT 659539598075367424
+  date: 2015-11-04 19:04
+
+# C/R support in Docker
+- account: _openvz_
+  text: RT 659621976844079104
+  date: 2015-11-04 21:34
+
+- account: _openvz_
+  text: "#Virtuozzo 7 Beta 2 test builds are available https://goo.gl/M6H7ks Download it right now and let us know your impression."
+  date: 2015-11-03 22:18
+
+- account: _openvz_
+  text: "First impression about #Virtuozzo 7 http://goo.gl/HUlDoW And where is your impression? :)"
+  date: 2015-11-03 20:34
+
 - account: _openvz_
   text: "About 60% of code from OpenVZ Linux kernel has been upstreamed http://goo.gl/euxxTW"
-  date: 2015-12-03 20:34
+  date: 2015-11-03 23:34
 
 - account: _openvz_
   text: "Containers storage backends https://wiki.openvz.org/CT_storage_backends"
-  date: 2015-12-02 18:34
+  date: 2015-11-02 20:16
 
 - account: __criu__
   text: "Pavel Emelyanov @xemulp will have a talk about live migration of containers at @DockerCon http://europe-2015.dockercon.com/speakers"
