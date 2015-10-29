@@ -1,5 +1,9 @@
 ---
 
+- account: _openvz_
+  text: "Did you try Virtuozzo 7? https://goo.gl/nBJVfy"
+  date: 2015-11-06 20:04
+
 # Virtuozzo + OpenStack
 - account: __criu__
   text: RT 659267322444578816
