@@ -14,6 +14,10 @@
   text: RT 659539598075367424
   date: 2015-11-04 19:04
 
+- account: _openvz_
+  text: "The list of new features in #Virtuozzo 7 https://goo.gl/KIwv7q. It is time to test them and report all issues to our public bug tracker. "
+  date: 2015-11-04 22:03
+
 # C/R support in Docker
 - account: _openvz_
   text: RT 659621976844079104
@@ -23,9 +27,17 @@
   text: "#Virtuozzo 7 Beta 2 test builds are available https://goo.gl/M6H7ks Download it right now and let us know your impression."
   date: 2015-11-03 22:18
 
+- account: __criu__
+  text: "It is worth to read articles about checkpointing in Linux kernel published on @lwnnet http://goo.gl/Ocn5JH"
+  date: 2015-11-03 19:17
+
 - account: _openvz_
   text: "First impression about #Virtuozzo 7 http://goo.gl/HUlDoW And where is your impression? :)"
   date: 2015-11-03 20:34
+
+- account: ProcessHauler
+  text: "P.Haul web UI merged to the source tree https://goo.gl/nXZ9k1"
+  date: 2015-11-05 19:12
 
 - account: _openvz_
   text: "About 60% of code from OpenVZ Linux kernel has been upstreamed http://goo.gl/euxxTW"
@@ -38,6 +50,10 @@
 - account: __criu__
   text: "Pavel Emelyanov @xemulp will have a talk about live migration of containers at @DockerCon http://europe-2015.dockercon.com/speakers"
   date: 2015-11-02 18:34
+
+- account: estet
+  text: "Today we celebrate 10 months since creation of pull request with C/R support in @Docker https://goo.gl/9X3C8b // CC: @boucher"
+  date: 2015-11-06 18:34
 
 # Talk about live migration at DockerCon
 - account: ProcessHauler
