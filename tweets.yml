@@ -9,6 +9,10 @@
   text: RT 659395910737252352
   date: 2015-11-05 20:12
 
+- account: _openvz_
+  text: "Call for testing: prl_disk_tool for #Virtuozzo 7 https://goo.gl/Bo3IUY"
+  date: 2015-11-05 22:17
+
 # Virtuozzo + OpenStack
 - account: __criu__
   text: RT 659267322444578816
