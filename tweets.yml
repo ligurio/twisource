@@ -4,6 +4,11 @@
   text: "Did you try Virtuozzo 7? https://goo.gl/nBJVfy"
   date: 2015-11-06 20:04
 
+# FOSDEM CFP Virtualization & IaaS DevRoom
+- account: _openvz_
+  text: RT 659395910737252352
+  date: 2015-11-05 20:12
+
 # Virtuozzo + OpenStack
 - account: __criu__
   text: RT 659267322444578816
@@ -13,6 +18,10 @@
 - account: __criu__
   text: RT 659539598075367424
   date: 2015-11-04 19:04
+
+- account: _openvz_
+  text: RT 659633987690696704
+  date: 2015-11-04 19:53
 
 - account: _openvz_
   text: "The list of new features in #Virtuozzo 7 https://goo.gl/KIwv7q. It is time to test them and report all issues to our public bug tracker. "
@@ -26,6 +35,10 @@
 - account: _openvz_
   text: "#Virtuozzo 7 Beta 2 test builds are available https://goo.gl/M6H7ks Download it right now and let us know your impression."
   date: 2015-11-03 22:18
+
+- account: _openvz_
+  text: "How Docker did not invent the containers http://goo.gl/JwAOpw // CC: @PavelSnajdr"
+  date: 2015-11-03 19:17
 
 - account: __criu__
   text: "It is worth to read articles about checkpointing in Linux kernel published on @lwnnet http://goo.gl/Ocn5JH"
