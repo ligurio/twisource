@@ -1,5 +1,18 @@
 ---
 
+- account: __criu__
+  text: "Linux Piter 2015: Живая миграция контейнеров: плюсы, минусы, подводные камни -- Pavel Emelyanov // CC: @linuxpiter http://goo.gl/zE3LO9"
+  date: 2015-11-15 20:23
+
+- account: _openvz_
+  text: "Call for proposals: Containers and Process isolation developer room at FOSDEM 2016 // CC: @fosdem https://goo.gl/qnaJNf"
+  date: 2015-11-09 19:58
+
+# Virtuozzo is now available on AWS EC2!
+- account: _openvz_
+  text: RT 660639651900690432
+  date: 2015-11-09 21:49
+
 - account: _openvz_
   text: "Did you try Virtuozzo 7? https://goo.gl/nBJVfy"
   date: 2015-11-06 20:04
