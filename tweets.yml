@@ -1,5 +1,9 @@
 ---
 
+- account: _openvz_
+  text: "OpenVZ is not about containers only, it is about sport too https://goo.gl/HNqrZU. Join our OpenVZ group on Garmin Connect @GarminFitness"
+  date: 2015-12-01 20:23
+
 - account: __criu__
   text: "Linux Piter 2015: Живая миграция контейнеров: плюсы, минусы, подводные камни -- Pavel Emelyanov // CC: @linuxpiter http://goo.gl/zE3LO9"
   date: 2015-11-15 20:23
@@ -52,6 +56,11 @@
 - account: _openvz_
   text: "#Virtuozzo 7 Beta 2 test builds are available https://goo.gl/M6H7ks Download it right now and let us know your impression."
   date: 2015-11-03 22:18
+
+# Контейнерная виртуализация при помощи OpenVZ via eax.me
+- account: _openvz_
+  text: RT 661432598330232832
+  date: 2015-11-03 20:29
 
 - account: _openvz_
   text: "How Docker did not invent the containers http://goo.gl/JwAOpw // CC: @PavelSnajdr"
