@@ -9,6 +9,10 @@
   date: 2015-11-15 20:23
 
 - account: _openvz_
+  text: "Read success story about using #OpenVZ in Funtoo Compute Initiative https://goo.gl/C7cZcW // CC: @funtoo"
+  date: 2015-11-10 18:16
+
+- account: _openvz_
   text: "Call for proposals: Containers and Process isolation developer room at FOSDEM 2016 // CC: @fosdem https://goo.gl/qnaJNf"
   date: 2015-11-09 19:58
 
