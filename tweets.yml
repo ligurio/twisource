@@ -1,16 +1,51 @@
 ---
 
+- account: __criu__
+  text: RT 662922367446990848
+  date: 2015-12-02 21:13
+
 - account: _openvz_
   text: "OpenVZ is not about containers only, it is about sport too https://goo.gl/HNqrZU. Join our OpenVZ group on Garmin Connect @GarminFitness"
   date: 2015-12-01 20:23
+
+- account: _openvz_
+  text: "Call for testing: disk management tool in Virtuozzo 7 https://goo.gl/hDS5Cp"
+  date: 2015-11-16 21:12
+
+# Box with all #OpenVZ source code  https://github.com/OpenVZ  was delivered from @github
+- account: _openvz_
+  text: RT 662182303251177472
+  date: 2015-11-16 22:02
 
 - account: __criu__
   text: "Linux Piter 2015: Живая миграция контейнеров: плюсы, минусы, подводные камни -- Pavel Emelyanov // CC: @linuxpiter http://goo.gl/zE3LO9"
   date: 2015-11-15 20:23
 
+- account: __criu__
+  text: "[SLIDES] CRIU: Time and Space Travel for Linux Containers #containers #ContainerDays http://goo.gl/HRicLD"
+  date: 2015-11-14 16:23
+
+# Когда уже #OpenVZ будет в основном Linux ядре?
+- account: _openvz_
+  text: RT 659693074394804224
+  date: 2015-11-13 16:48
+
+- account: _openvz_
+  text: "SLIDES: How Docker didn't invent containers http://goo.gl/DpWfmp"
+  date: 2015-11-12 17:48
+
+- account: _openvz_
+  text: RT 661577898034262016
+  date: 2015-11-11 18:16
+
 - account: _openvz_
   text: "Read success story about using #OpenVZ in Funtoo Compute Initiative https://goo.gl/C7cZcW // CC: @funtoo"
   date: 2015-11-10 18:16
+
+# Today we celebrate 10 months since creation of pull request with C/R support in @Docker
+- account: __criu__
+  text: RT 662654295175659520
+  date: 2015-11-10 13:07
 
 - account: _openvz_
   text: "Call for proposals: Containers and Process isolation developer room at FOSDEM 2016 // CC: @fosdem https://goo.gl/qnaJNf"
@@ -29,10 +64,6 @@
 - account: _openvz_
   text: RT 659395910737252352
   date: 2015-11-05 20:12
-
-- account: _openvz_
-  text: "Call for testing: prl_disk_tool for #Virtuozzo 7 https://goo.gl/Bo3IUY"
-  date: 2015-11-05 22:17
 
 # Virtuozzo + OpenStack
 - account: __criu__
