@@ -13,6 +13,10 @@
   date: 2015-12-01 20:23
 
 - account: _openvz_
+  text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
+  date: 2015-11-17 19:23
+
+- account: _openvz_
   text: "Call for testing: disk management tool in Virtuozzo 7 https://goo.gl/hDS5Cp"
   date: 2015-11-16 21:12
 
@@ -24,6 +28,11 @@
 - account: __criu__
   text: "Linux Piter 2015: Живая миграция контейнеров: плюсы, минусы, подводные камни -- Pavel Emelyanov // CC: @linuxpiter http://goo.gl/zE3LO9"
   date: 2015-11-15 20:23
+
+# Mayakovsky-style code
+- account: _openvz_
+  text: RT 663802082311413760
+  date: 2015-11-14 18:19
 
 - account: __criu__
   text: "[SLIDES] CRIU: Time and Space Travel for Linux Containers #containers #ContainerDays http://goo.gl/HRicLD"
