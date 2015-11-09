@@ -14,13 +14,15 @@ Tweets of [@OpenVZ](https://twitter.com/_openvz_), [@CRIU](https://twitter.com/_
 - main language of tweets is English
 - 'RT tweet\_id' will produce retweet
 - schedule same tweets several times
-- mention other projects in tweets or use  tags (#Virtuozzo, #KVM etc) for projects wo accounts
+- mention other projects in tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
+- use tags for upcoming events (like #OSday, #OpenStackSummit etc)
 - time is in MSK timezone (Europe/Moscow)
 - categories: Call for testing, TRD
 - add web links with UTM tags using [ohmystats](https://ohmystats.com/utm) or [Google](https://goo.gl/zu4WVG) services
 - new videos from [OpenVZ Youtube channel](http://www.youtube.com/c/OpenVZorg) will be posted automatically
 - news from [OpenVZ wiki](https://openvz.org/News/updates) will be posted automatically
 - tweets with tag #fb will be posted to [OpenVZ page](https://www.facebook.com/openvz.org) in Facebook page as well
+- prepend tweets with video and slides with "VIDEO:" and "SLIDES:" respectively
 
 ## Contacts                               
 
