@@ -1,5 +1,9 @@
 ---
 
+- account: _openvz_
+  text: "Virtuozzo 7 Beta 2 published \ ^o^ /"
+  date: 2015-12-20 21:13
+
 - account: __criu__
   text: RT 662922367446990848
   date: 2015-12-02 21:13
@@ -41,6 +45,14 @@
 - account: _openvz_
   text: "Read success story about using #OpenVZ in Funtoo Compute Initiative https://goo.gl/C7cZcW // CC: @funtoo"
   date: 2015-11-10 18:16
+
+- account: estet
+  text: "Собрал ссылки на все свои статьи в одном месте http://goo.gl/mc0u6b"
+  date: 2015-11-10 19:08
+
+- account: _openvz_
+  text: "Templates update November 2015 (Ubuntu 15.10) https://goo.gl/DCjYgF"
+  date: 2015-11-10 17:13
 
 # Today we celebrate 10 months since creation of pull request with C/R support in @Docker
 - account: __criu__
