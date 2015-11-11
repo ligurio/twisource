@@ -12,6 +12,10 @@
   text: "OpenVZ is not about containers only, it is about sport too https://goo.gl/HNqrZU. Join our OpenVZ group on Garmin Connect @GarminFitness"
   date: 2015-12-01 20:23
 
+- account: estet
+  text: RT 661841732766720000
+  date: 2015-11-18 18:59
+
 - account: _openvz_
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
   date: 2015-11-17 19:23
@@ -29,6 +33,10 @@
   text: "Linux Piter 2015: Живая миграция контейнеров: плюсы, минусы, подводные камни -- Pavel Emelyanov // CC: @linuxpiter http://goo.gl/zE3LO9"
   date: 2015-11-15 20:23
 
+- account: _openvz_
+  text: "Changelogs of latest Virtuozzo 7 build is here https://goo.gl/8xSFdP"
+  date: 2015-11-14 19:19
+
 # Mayakovsky-style code
 - account: _openvz_
   text: RT 663802082311413760
@@ -42,6 +50,10 @@
 - account: _openvz_
   text: RT 659693074394804224
   date: 2015-11-13 16:48
+
+- account: __criu__
+  text: "Less than a week to #DockerConEU! Next week, @xemulp will explain how CRIU works."
+  date: 2015-11-12 02:48
 
 - account: _openvz_
   text: "SLIDES: How Docker didn't invent containers http://goo.gl/DpWfmp"
