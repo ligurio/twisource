@@ -4,6 +4,10 @@
   text: "Virtuozzo 7 Beta 2 published \ ^o^ /"
   date: 2015-12-20 21:13
 
+- account: _openvz_
+  text: "Try Virtuzzo 7 in Vagrant box if you don't want to install it yourself https://goo.gl/mbWaJN"
+  date: 2015-12-02 19:42
+
 - account: __criu__
   text: RT 662922367446990848
   date: 2015-12-02 21:13
@@ -15,6 +19,10 @@
 - account: estet
   text: RT 661841732766720000
   date: 2015-11-18 18:59
+
+- account: _openvz_
+  text: "Vagrant box with Virtuozzo 7 inside https://goo.gl/vKIkxN"
+  date: 2015-11-18 20:39
 
 - account: _openvz_
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
