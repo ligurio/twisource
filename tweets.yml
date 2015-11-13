@@ -5,8 +5,16 @@
   date: 2015-12-20 21:13
 
 - account: _openvz_
+  text: "Look at our kernel tasks TODO list, pick one and send a patch https://goo.gl/08pHeT"
+  date: 2015-12-03 21:42
+
+- account: _openvz_
   text: "Try Virtuzzo 7 in Vagrant box if you don't want to install it yourself https://goo.gl/mbWaJN"
   date: 2015-12-02 19:42
+
+- account: estet
+  text: "Twisource is more convenient Twitter client for opensource projects than paid SMM services. Sorry @buffer, @amplifr, @hootsuite http://goo.gl/7d9F92."
+  date: 2015-12-02 10:13
 
 - account: __criu__
   text: RT 662922367446990848
