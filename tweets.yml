@@ -40,6 +40,18 @@
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
   date: 2015-11-17 19:23
 
+- account: ProcessHauler
+  text: RT 666290474358071298
+  date: 2015-11-17 06:12
+
+- account: __criu__
+  text: RT 666290649264742401
+  date: 2015-11-17 05:03
+
+- account: __criu__
+  text: RT 666304131406147584
+  date: 2015-11-17 01:12
+
 - account: _openvz_
   text: "Call for testing: disk management tool in Virtuozzo 7 https://goo.gl/hDS5Cp"
   date: 2015-11-16 21:12
