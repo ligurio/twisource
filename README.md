@@ -15,7 +15,7 @@ Tweets of [@OpenVZ](https://twitter.com/_openvz_), [@CRIU](https://twitter.com/_
 - 'RT tweet\_id' will produce retweet
 - schedule same tweets several times
 - mention other projects in tweets or use tags (#Virtuozzo, #KVM etc) for projects wo accounts
-- use tags for upcoming events (like #OSday, #OpenStackSummit etc)
+- use tags for upcoming events (like #OSday, #OpenStackSummit, #StayTuned etc)
 - time is in MSK timezone (Europe/Moscow)
 - categories: Call for testing, TRD
 - add web links with UTM tags using [ohmystats](https://ohmystats.com/utm) or [Google](https://goo.gl/zu4WVG) services

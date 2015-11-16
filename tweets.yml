@@ -13,7 +13,7 @@
   date: 2015-12-02 19:42
 
 - account: estet
-  text: "Twisource is more convenient Twitter client for opensource projects than paid SMM services. Sorry @buffer, @amplifr, @hootsuite http://goo.gl/7d9F92."
+  text: "Twisource is more convenient for opensource projects than paid SMM services. Sorry @buffer, @amplifr and @hootsuite http://goo.gl/7d9F92"
   date: 2015-12-02 10:13
 
 - account: __criu__
@@ -43,6 +43,18 @@
 - account: _openvz_
   text: "Call for testing: disk management tool in Virtuozzo 7 https://goo.gl/hDS5Cp"
   date: 2015-11-16 21:12
+
+- account: __criu__
+  text: "LIVE: Live migrating a container: pros, cons and gotchas #DockerCon http://goo.gl/BDdgon"
+  date: 2015-11-16 19:20
+
+- account: __criu__
+  text: "Live stream about live mirgation of containers is available goo.gl/BDdgon #DockerCon"
+  date: 2015-11-16 17:25
+
+- account: __criu__
+  text: "Today there will be a talk about live migrating a container at #DockerCon http://goo.gl/CcFVlG"
+  date: 2015-11-16 17:20
 
 # Box with all #OpenVZ source code  https://github.com/OpenVZ  was delivered from @github
 - account: _openvz_
