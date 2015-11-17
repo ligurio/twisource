@@ -1,7 +1,66 @@
 ---
 
+# Я тут подумал, что весна отличный повод завести свой блог и завёл
+- account: estet
+  text: RT 449577217647857664
+  date: 2016-03-28 13:13
+
+- account: estet
+  text: RT 434239363330105344
+  date: 2016-02-14 13:13
+
+# The simplest way to create a Linux container 
+- account: _openvz_
+  text: RT 571237084679286784
+  date: 2015-12-29 20:04
+
+# The simplest way to create a Linux container 
+- account: estet
+  text: RT 571237084679286784
+  date: 2015-12-28 17:04
+
+# Mirantis OpenStack test lab
+- account: estet
+  text: RT 578116166104694784
+  date: 2015-12-27 18:04
+
+# Станция метро спортивная, а ты нет.
+- account: estet
+  text: RT 585352935510560769
+  date: 2015-12-26 19:04
+
+# What happened to Quality in Software Development? 
+- account: estet
+  text: RT 593984611346092032
+  date: 2015-12-25 19:04
+
+# Три закона критики
+- account: estet
+  text: RT 603889558728609792
+  date: 2015-12-24 20:13
+
+# Amazing photos of the abandoned Cosmodrome at Baikonur
+- account: estet
+  text: RT 608429153495461889
+  date: 2015-12-23 19:13
+
+# The most secure way to communicate for most people? An iPod Touch
+- account: estet
+  text: RT 634005907165323264
+  date: 2015-12-22 13:13
+
+# Open Source was all about watching people use what we created; not watching others create what we use. 
+- account: estet
+  text: RT 637237800673386496
+  date: 2015-12-21 15:13
+
 - account: _openvz_
   text: "Virtuozzo 7 Beta 2 published \ ^o^ /"
+  date: 2015-12-20 21:13
+
+# Twisource by @rikkiends
+- account: estet
+  text: RT 665147572294668292
   date: 2015-12-20 21:13
 
 - account: _openvz_
@@ -12,6 +71,11 @@
   text: "Try Virtuzzo 7 in Vagrant box if you don't want to install it yourself https://goo.gl/mbWaJN"
   date: 2015-12-02 19:42
 
+# Свободы хочется и денег.
+- account: estet
+  text: RT 409150552925171712
+  date: 2015-12-02 11:39
+
 - account: estet
   text: "Twisource is more convenient for opensource projects than paid SMM services. Sorry @buffer, @amplifr and @hootsuite http://goo.gl/7d9F92"
   date: 2015-12-02 10:13
@@ -20,13 +84,88 @@
   text: RT 662922367446990848
   date: 2015-12-02 21:13
 
+# Всей своей жизнью Александр Сергеевич Пушкин учит нас
+- account: estet
+  text: RT 409373340785053697
+  date: 2015-12-01 10:39
+
 - account: _openvz_
   text: "OpenVZ is not about containers only, it is about sport too https://goo.gl/HNqrZU. Join our OpenVZ group on Garmin Connect @GarminFitness"
   date: 2015-12-01 20:23
 
+# Если долго сидеть не берегу реки
+- account: estet
+  text: RT 537029868438175746
+  date: 2015-11-25 17:03
+
+# В декабре @_openvz_ - уже 9 лет!
+- account: estet
+  text: RT 539364076674351104
+  date: 2015-11-24 16:03
+
+# X as a Service (XaaS)
+- account: estet
+  text: RT 540083489371353088
+  date: 2015-11-23 12:03
+
+# Покрытие OSM
+- account: estet
+  text: RT 426637821361651712
+  date: 2015-11-22 19:39
+
+# Interesting interview about Fossil
+- account: estet
+  text: RT 553477111571546112
+  date: 2015-11-22 12:03
+
+# Run
+- account: estet
+  text: RT 491777463664381952
+  date: 2015-11-21 19:39
+
+# What if Linus Torvalds is just angry because he's had to use Linux for 20 years
+- account: estet
+  text: RT 557037505162543105
+  date: 2015-11-21 17:03
+
+# If you love your job, you need to create a side project that you'll hate.
+- account: estet
+  text: RT 558192946458402816
+  date: 2015-11-20 17:03
+
+# The purpose of software is to help humans, not computers. Always keep that in mind.
+- account: estet
+  text: RT 561509410896629762
+  date: 2015-11-19 14:03
+
+# Сергиев Посад
+- account: estet
+  text: RT 518342984090546177
+  date: 2015-11-19 19:23
+
+# Сергиев Посад
+- account: estet
+  text: RT 519815188393254912
+  date: 2015-11-19 19:03
+
 - account: estet
   text: RT 661841732766720000
   date: 2015-11-18 18:59
+
+# How @asciinema helps @__criu__ project
+- account: __criu__
+  text: RT 566904915243835393
+  date: 2015-11-18 16:03
+
+# я же менеджер, простигосподи
+- account: estet
+  text: RT 529954732060987392
+  date: 2015-11-18 17:03
+
+# Бизнес как бессмертие: Давид Ян и его сражение против времени
+- account: estet
+  text: RT 665230532310122496
+  date: 2015-11-18 09:59
 
 - account: _openvz_
   text: "Vagrant box with Virtuozzo 7 inside https://goo.gl/vKIkxN"
@@ -43,6 +182,10 @@
 - account: _openvz_
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
   date: 2015-11-17 17:13
+
+- account: _openvz_
+  text: "Join our IRC channel on Freenode #OpenVZ https://goo.gl/ED6npj IRC client is not required."
+  date: 2015-11-17 22:22
 
 - account: _openvz_
   text: "Latest changes in OpenVZ project (new features, components, documentation etc) https://goo.gl/ah5nNA"
