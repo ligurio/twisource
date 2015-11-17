@@ -42,7 +42,7 @@
 
 - account: _openvz_
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
-  date: 2015-11-17 19:23
+  date: 2015-11-17 17:13
 
 - account: _openvz_
   text: "Latest changes in OpenVZ project (new features, components, documentation etc) https://goo.gl/ah5nNA"
@@ -51,6 +51,10 @@
 - account: __criu__
   text: "SLIDES: Live migrating a container: pros, cons and gotchas -- Pavel Emelyanov #DockerCon http://goo.gl/jDJTII"
   date: 2015-11-17 17:23
+
+- account: _openvz_
+  text: RT 666557240334241792
+  date: 2015-11-17 13:34
 
 - account: ProcessHauler
   text: RT 666290474358071298
