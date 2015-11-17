@@ -40,6 +40,10 @@
   text: "Do you know we have OpenVZ group in FB and anyone can post there? https://goo.gl/CQFUaa"
   date: 2015-11-17 19:23
 
+- account: __criu__
+  text: "SLIDES: Live migrating a container: pros, cons and gotchas -- Pavel Emelyanov #DockerCon http://goo.gl/jDJTII"
+  date: 2015-11-17 17:23
+
 - account: _openvz_
   text: "Call for testing: disk management tool in Virtuozzo 7 https://goo.gl/hDS5Cp"
   date: 2015-11-16 21:12
