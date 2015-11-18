@@ -103,6 +103,11 @@
   text: RT 539364076674351104
   date: 2015-11-24 16:03
 
+# What companies participate in CRIU development?
+- account: _openvz_
+  text: RT 667074711461957632
+  date: 2015-11-23 19:03
+
 # X as a Service (XaaS)
 - account: estet
   text: RT 540083489371353088
