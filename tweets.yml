@@ -63,6 +63,11 @@
   text: RT 665147572294668292
   date: 2015-12-20 21:13
 
+# Red Hat Enterprise Linux 7.2 has been released. With CRIU tool inside.
+- account: _openvz_
+  text: RT 667409679472009216
+  date: 2015-12-04 20:13
+
 - account: _openvz_
   text: "Look at our kernel tasks TODO list, pick one and send a patch https://goo.gl/08pHeT"
   date: 2015-12-03 21:42
@@ -98,6 +103,10 @@
   text: RT 537029868438175746
   date: 2015-11-25 17:03
 
+- account: __criu__
+  text: "Now CRIU is a part of Red Hat Enterprise Linux. Since release 7.2 https://goo.gl/71QCmA"
+  date: 2015-11-24 17:03
+
 # В декабре @_openvz_ - уже 9 лет!
 - account: estet
   text: RT 539364076674351104
@@ -107,6 +116,10 @@
 - account: _openvz_
   text: RT 667074711461957632
   date: 2015-11-23 19:03
+
+- account: ProcessHauler
+  text: RT 667409679472009216
+  date: 2015-11-23 18:55
 
 # X as a Service (XaaS)
 - account: estet
