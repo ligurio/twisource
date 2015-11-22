@@ -33,3 +33,8 @@ Tweets of [@OpenVZ](https://twitter.com/_openvz_), [@CRIU](https://twitter.com/_
 This tweets by Sergey Bronnikov is licensed under a [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International
 License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Guidelines
+
+- [IBM Social Computing Guidelines](https://www.ibm.com/blogs/zz/en/guidelines.html)
+- [Red Hat Social Media Guide](http://brand.redhat.com/applications/social-media/)
