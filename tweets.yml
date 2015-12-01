@@ -1,5 +1,10 @@
 ---
 
+# Воспоминания моего дедушки о Войне
+- account: estet
+  text: RT 464633990960676864
+  date: 2016-05-09 13:13
+
 # Я тут подумал, что весна отличный повод завести свой блог и завёл
 - account: estet
   text: RT 449577217647857664
@@ -63,6 +68,49 @@
   text: RT 665147572294668292
   date: 2015-12-20 21:13
 
+- account: estet
+  text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
+  date: 2015-12-18 10:13
+
+# man first, run later.
+- account: _openvz_
+  text: RT 194778815921270785
+  date: 2015-12-13 20:18
+
+# Between FreeBSD, Varnish and Ngnix, at least 2 out of 3 packets on the net are delivered by #BSD licensed open source software.
+- account: estet
+  text: RT 384327886406045696
+  date: 2015-12-12 19:13
+
+# People joke about #OpenBSD's use of #CVS.
+- account: estet
+  text: RT 516647703615639553
+  date: 2015-12-11 19:13
+
+- account: estet
+  text: "У чилийцев очень большие проблемы с неймингом https://goo.gl/jywTHv"
+  date: 2015-12-10 19:13
+
+# Не бери на свои плечи бремя долгов и обязанностей, которые на тебя никто не взваливал.
+- account: estet
+  text: RT 534125399333429248
+  date: 2015-12-09 09:13
+
+# Testers don't break your code, they break your *illusions* about your code
+- account: estet
+  text: RT 540084786128498688
+  date: 2015-12-08 19:13
+
+# Ansible module to control OpenVZ containers
+- account: _openvz_
+  text: RT 423843342271938560
+  date: 2015-12-07 17:45
+
+# Начнем неделю правильно?
+- account: estet
+  text: RT 465712369692200961
+  date: 2015-12-07 10:13
+
 # Red Hat Enterprise Linux 7.2 has been released. With CRIU tool inside.
 - account: _openvz_
   text: RT 667409679472009216
@@ -71,6 +119,15 @@
 - account: _openvz_
   text: "Look at our kernel tasks TODO list, pick one and send a patch https://goo.gl/08pHeT"
   date: 2015-12-03 21:42
+
+- account: estet
+  text: "Do you know what software you’re running? http://goo.gl/OpxbPi"
+  date: 2015-12-03 12:18
+
+# Boot sector chess game in 481 bytes of 186 code, with source
+- account: estet
+  text: RT 562544104274669568
+  date: 2015-12-03 15:39
 
 - account: _openvz_
   text: "Try Virtuzzo 7 in Vagrant box if you don't want to install it yourself https://goo.gl/mbWaJN"
@@ -84,6 +141,11 @@
 - account: estet
   text: "Twisource is more convenient for opensource projects than paid SMM services. Sorry @buffer, @amplifr and @hootsuite http://goo.gl/7d9F92"
   date: 2015-12-02 10:13
+
+# Virtuozzo, year 2000
+- account: _openvz_
+  text: RT 616742308764098560
+  date: 2015-12-02 19:39
 
 - account: __criu__
   text: RT 662922367446990848
