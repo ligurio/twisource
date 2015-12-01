@@ -5,6 +5,13 @@ Tweets of [@OpenVZ](https://twitter.com/_openvz_), [@CRIU](https://twitter.com/_
 [@ProcessHauler](https://twitter.com/ProcessHauler) projects.
 [Twisource](https://github.com/ligurio/twisource) client used.
 
+## Contribute
+
+Everyone can propose a tweets for our Twitter accounts. Follow these steps:
+
+- [Edit](https://github.com/ligurio/openvz-smm/edit/master/tweets.yml) file with tweets
+- Make a pull request with your changes
+
 ## Rules
 
 - max length of each tweet is 140 symbols
