@@ -1,5 +1,6 @@
-OpenVZ SMM
-==========
+# OpenVZ SMM
+
+[![Build Status](https://travis-ci.org/ligurio/openvz-smm.svg?branch=master)](https://travis-ci.org/ligurio/openvz-smm)
 
 Tweets of [@OpenVZ](https://twitter.com/_openvz_), [@CRIU](https://twitter.com/__criu__) and
 [@ProcessHauler](https://twitter.com/ProcessHauler) projects.
