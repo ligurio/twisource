@@ -10,7 +10,7 @@ install:
   - sudo pip install pykwalify
 
 script:
-  - pykwalify --data-file tweets.yml --schema-file schema.yaml; done
+  - pykwalify --data-file tweets.yml --schema-file schema.yaml
 
 notifications:
   email: false
