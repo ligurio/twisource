@@ -1,0 +1,13 @@
+type: seq
+sequence:
+  - type: map
+    mapping:
+      account:
+        type: str
+        required: True
+      text:
+        type: str
+        required: True
+      date:
+        type: str
+        required: True
