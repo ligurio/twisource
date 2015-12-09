@@ -64,6 +64,11 @@
   text: RT 665147572294668292
   date: 2015-12-20 21:13
 
+# Progress Report: Open Container Initiative (runC now has checkpoint and restore feature)
+- account: __criu__
+  text: RT 674677819583123456
+  date: 2015-12-18 19:59
+
 - account: estet
   text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
   date: 2015-12-18 10:13
@@ -72,6 +77,10 @@
 - account: _openvz_
   text: RT 194778815921270785
   date: 2015-12-13 20:18
+
+- account: _openvz_
+  text: "We are finally joined to Cloud Native Computing Foundation https://cncf.io/"
+  date: 2015-12-13 18:03
 
 # Between FreeBSD, Varnish and Ngnix, at least 2 out of 3 packets on the net are delivered by #BSD licensed open source software.
 - account: estet
@@ -82,6 +91,27 @@
 - account: estet
   text: RT 516647703615639553
   date: 2015-12-11 19:13
+
+- account: _openvz_
+  text: "We are in The Open Container Initiative https://goo.gl/PtcNDL"
+  date: 2015-12-11 20:44
+
+# Выпуск CRIU 1.8, системы для сохранения и восстановления состояния процессов в Linux
+- account: __criu__
+  text: RT 674674572487229442
+  date: 2015-12-11 20:03
+
+- account: _openvz_
+  text: "Multiple shared storage options support (VZ storage, CEPH, NFS, FC, iSCSI) in Virtuozzo https://goo.gl/RD00V5"
+  date: 2015-12-11 21:13
+
+- account: _openvz_
+  text: "Want to track status of SimFS development in Virtuozzo? https://goo.gl/N8vzPf https://goo.gl/i2hXsw"
+  date: 2015-12-10 19:13
+
+- account: __criu__
+  text: "New CRIU release 1.8 (new features, a LOT of bug fixes, fixed CVEs) https://goo.gl/gxtcNG"
+  date: 2015-12-10 01:13
 
 - account: estet
   text: "У чилийцев очень большие проблемы с неймингом https://goo.gl/jywTHv"
