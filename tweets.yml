@@ -109,6 +109,11 @@
   text: "Want to track status of SimFS development in Virtuozzo? https://goo.gl/N8vzPf https://goo.gl/i2hXsw"
   date: 2015-12-10 19:13
 
+# [VIDEO] Live migrating a container: pros, cons and gotchas #DockerCon
+- account: _openvz_
+  text: RT 674684457971032065
+  date: 2015-12-10 15:03
+
 - account: __criu__
   text: "New CRIU release 1.8 (new features, a LOT of bug fixes, fixed CVEs) https://goo.gl/gxtcNG"
   date: 2015-12-10 01:13
