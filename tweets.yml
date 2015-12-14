@@ -73,6 +73,10 @@
   text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
   date: 2015-12-18 10:13
 
+- account: __criu__
+  text: "Upcoming plans on CRIU 2.0 https://goo.gl/ZmO7Rk"
+  date: 2015-12-14 19:13
+
 # man first, run later.
 - account: _openvz_
   text: RT 194778815921270785
