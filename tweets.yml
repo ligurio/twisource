@@ -74,6 +74,10 @@
   date: 2015-12-18 10:13
 
 - account: _openvz_
+  text: "Templates update December 2015 (Ubuntu 15.10 and Fedora 23) https://goo.gl/rk2OpP"
+  date: 2015-12-16 20:30
+
+- account: _openvz_
   text: "OpenVZ project is now sponsored by Virtuozzo company, not by Odin https://goo.gl/JP4ZgU"
   date: 2015-12-16 20:01
 
