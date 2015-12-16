@@ -73,6 +73,11 @@
   text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
   date: 2015-12-18 10:13
 
+# Upcoming plans on CRIU 2.0
+- account: _openvz_
+  text: RT 676434750018445314
+  date: 2015-12-17 08:18
+
 - account: _openvz_
   text: "Templates update December 2015 (Ubuntu 15.10 and Fedora 23) https://goo.gl/rk2OpP"
   date: 2015-12-16 20:30
