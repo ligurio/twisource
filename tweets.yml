@@ -73,6 +73,10 @@
   text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
   date: 2015-12-18 10:13
 
+- account: _openvz_
+  text: "GUI with ability to manage containers and virtual machines on Virtuozzo https://goo.gl/7HUXTN"
+  date: 2015-12-17 18:30
+
 # Upcoming plans on CRIU 2.0
 - account: _openvz_
   text: RT 676434750018445314
