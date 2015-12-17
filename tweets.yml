@@ -74,6 +74,10 @@
 #  date: 2015-12-17 21:18
 
 - account: _openvz_
+  text: "Rebase vzkernel to the RHEL 7.2 kernel https://goo.gl/2pxACh"
+  date: 2015-12-18 22:09
+
+- account: _openvz_
   text: "Source code of the new Virtuozzo component was published - libprlcommon https://goo.gl/M7kq0I"
   date: 2015-12-18 21:18
 
