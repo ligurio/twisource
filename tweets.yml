@@ -69,9 +69,21 @@
   text: RT 674677819583123456
   date: 2015-12-18 19:59
 
+#- account: _openvz_
+#  text: "Source code of the new Virtuozzo component was published - libprlxmlmodel"
+#  date: 2015-12-17 21:18
+
+- account: _openvz_
+  text: "Source code of the new Virtuozzo component was published - libprlcommon https://goo.gl/M7kq0I"
+  date: 2015-12-18 21:18
+
 - account: estet
   text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
   date: 2015-12-18 10:13
+
+- account: _openvz_
+  text: "Source code of the new Virtuozzo component was published - prl_nettool https://goo.gl/Guig9W"
+  date: 2015-12-17 21:18
 
 - account: _openvz_
   text: "GUI with ability to manage containers and virtual machines on Virtuozzo https://goo.gl/7HUXTN"
