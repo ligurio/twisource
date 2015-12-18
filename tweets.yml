@@ -39,11 +39,6 @@
   text: RT 593984611346092032
   date: 2015-12-25 19:04
 
-# Три закона критики
-- account: estet
-  text: RT 603889558728609792
-  date: 2015-12-24 20:13
-
 # Amazing photos of the abandoned Cosmodrome at Baikonur
 - account: estet
   text: RT 608429153495461889
@@ -54,7 +49,40 @@
   text: RT 634005907165323264
   date: 2015-12-22 13:13
 
-# Open Source was all about watching people use what we created; not watching others create what we use. 
+- account: _openvz_
+  text: "Schedule of Containers and Process Isolation devroom #FOSDEM https://goo.gl/g3gQHy"
+  date: 2015-12-21 17:04
+
+# Progress Report: Open Container Initiative (runC now has checkpoint and restore feature)
+- account: __criu__
+  text: RT 674677819583123456
+  date: 2015-12-19 19:59
+
+- account: _openvz_
+  text: "Join our team on FOSDEM conference! https://goo.gl/TJlz9c"
+  date: 2015-12-19 07:09
+
+#- account: _openvz_
+#  text: "Source code of the new Virtuozzo component was published - libprlxmlmodel"
+#  date: 2015-12-17 21:18
+
+- account: _openvz_
+  text: "Rebase vzkernel to the RHEL 7.2 kernel https://goo.gl/2pxACh"
+  date: 2015-12-19 22:09
+
+- account: _openvz_
+  text: "Source code of the new Virtuozzo component was published - libprlcommon https://goo.gl/M7kq0I"
+  date: 2015-12-22 21:01
+
+- account: estet
+  text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
+  date: 2015-12-21 10:13
+
+- account: _openvz_
+  text: "Source code of the new Virtuozzo component was published - prl_nettool https://goo.gl/Guig9W"
+  date: 2015-12-21 21:18
+
+# Open Source was all about watching people use what we created; not watching others create what we use.
 - account: estet
   text: RT 637237800673386496
   date: 2015-12-21 15:13
@@ -63,35 +91,6 @@
 - account: estet
   text: RT 665147572294668292
   date: 2015-12-20 21:13
-
-# Progress Report: Open Container Initiative (runC now has checkpoint and restore feature)
-- account: __criu__
-  text: RT 674677819583123456
-  date: 2015-12-18 19:59
-
-- account: _openvz_
-  text: "Join our team on FOSDEM conference! https://goo.gl/TJlz9c"
-  date: 2015-12-18 22:09
-
-#- account: _openvz_
-#  text: "Source code of the new Virtuozzo component was published - libprlxmlmodel"
-#  date: 2015-12-17 21:18
-
-- account: _openvz_
-  text: "Rebase vzkernel to the RHEL 7.2 kernel https://goo.gl/2pxACh"
-  date: 2015-12-18 22:09
-
-- account: _openvz_
-  text: "Source code of the new Virtuozzo component was published - libprlcommon https://goo.gl/M7kq0I"
-  date: 2015-12-18 21:18
-
-- account: estet
-  text: "Ежегодный тренинг “Как восстановить имидж деловой женщины после корпоративной вечеринки”"
-  date: 2015-12-18 10:13
-
-- account: _openvz_
-  text: "Source code of the new Virtuozzo component was published - prl_nettool https://goo.gl/Guig9W"
-  date: 2015-12-17 21:18
 
 - account: _openvz_
   text: "GUI with ability to manage containers and virtual machines on Virtuozzo https://goo.gl/7HUXTN"
