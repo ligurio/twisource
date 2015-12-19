@@ -39,6 +39,10 @@
   text: RT 593984611346092032
   date: 2015-12-25 19:04
 
+#- account: _openvz_
+#  text: "Source code of the new Virtuozzo component was published - libprlxmlmodel"
+#  date: 2015-12-17 21:18
+
 # Amazing photos of the abandoned Cosmodrome at Baikonur
 - account: estet
   text: RT 608429153495461889
@@ -60,11 +64,7 @@
 
 - account: _openvz_
   text: "Join our team on FOSDEM conference! https://goo.gl/TJlz9c"
-  date: 2015-12-19 07:09
-
-#- account: _openvz_
-#  text: "Source code of the new Virtuozzo component was published - libprlxmlmodel"
-#  date: 2015-12-17 21:18
+  date: 2015-12-19 11:31
 
 - account: _openvz_
   text: "Rebase vzkernel to the RHEL 7.2 kernel https://goo.gl/2pxACh"
