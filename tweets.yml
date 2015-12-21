@@ -57,6 +57,10 @@
   text: RT 634005907165323264
   date: 2015-12-22 13:13
 
+- account: __criu__
+  text: "We're going to #FOSDEM next year with two talks https://goo.gl/b07G2w"
+  date: 2015-12-22 00:04
+
 - account: _openvz_
   text: "Source code of the new Virtuozzo component was published - libvcmmd https://goo.gl/U8ZW0T"
   date: 2015-12-21 21:04
