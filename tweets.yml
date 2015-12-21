@@ -48,10 +48,18 @@
   text: RT 608429153495461889
   date: 2015-12-23 19:13
 
+#- account: _openvz_
+#  text: "TODO: Latest changes in OpenVZ project"
+#  date: 2015-12-22 21:04
+
 # The most secure way to communicate for most people? An iPod Touch
 - account: estet
   text: RT 634005907165323264
   date: 2015-12-22 13:13
+
+- account: _openvz_
+  text: "Source code of the new Virtuozzo component was published - libvcmmd https://goo.gl/U8ZW0T"
+  date: 2015-12-21 21:04
 
 - account: _openvz_
   text: "Schedule of Containers and Process Isolation devroom #FOSDEM https://goo.gl/g3gQHy"
