@@ -103,6 +103,10 @@
   date: 2016-01-20 17:17
 
 - account: _openvz_
+  text: "Virtuozzo 7 kernel branches and plans 20160119 https://goo.gl/tYToz3"
+  date: 2016-01-19 20:03
+
+- account: _openvz_
   text: "Source code of Virtuozzo component was published - pcompact https://goo.gl/1S5r89"
   date: 2016-01-19 19:44
 
