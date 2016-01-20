@@ -103,6 +103,10 @@
   date: 2016-01-20 17:17
 
 - account: _openvz_
+  text: "Steps to setup OpenStack with Virtuozzo 7 were updated https://goo.gl/pmLcHc"
+  date: 2016-01-20 15:04
+
+- account: _openvz_
   text: "Virtuozzo 7 kernel branches and plans 20160119 https://goo.gl/tYToz3"
   date: 2016-01-19 20:03
 
