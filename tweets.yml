@@ -15,7 +15,7 @@
   date: 2016-02-14 13:13
 
 - account: __criu__
-  text: "Talk about live migrating a container on 5 Feb 2016, DevConf.CZ https://goo.gl/bivCGn"
+  text: "We will also talk about live migration on DevConf.cz in February. See you in Brno! https://goo.gl/bivCGn"
   date: 2016-02-01 10:50
 
 - account: _openvz_
@@ -62,13 +62,33 @@
   text: "We will have OpenVZ booth at upcoming @fosdem conference. Come to our stand to talk about Virtuozzo and CRIU https://goo.gl/Kxp6vn"
   date: 2016-01-29 20:13
 
+- account: __criu__
+  text: "CRIU 2.0 is approaching! Hopefully will be ready by March. https://goo.gl/xWLQb1"
+  date: 2016-01-28 18:17
+
 - account: _openvz_
   text: "Schedule of Containers and Process Isolation devroom https://goo.gl/jkrc51 // CC: @fosdem"
   date: 2016-01-27 18:01
 
+- account: __criu__
+  text: RT 691559361731239936
+  date: 2016-01-27 21:17
+
 - account: _openvz_
   text: "libprlxmlmodel is an Virtuozzo XML Model Library https://goo.gl/mX0MtV"
   date: 2016-01-26 19:44
+
+- account: _openvz_
+  text: RT 691559361731239936
+  date: 2016-01-26 15:17
+
+- account: _openvz_
+  text: "SLIDES: Speeding up ps and top http://goo.gl/sEjuoD #SCALE14x"
+  date: 2016-01-26 17:17
+
+- account: estet
+  text: "OpenBSD tool for removing obsolete files between upgrade https://goo.gl/lm99I6"
+  date: 2016-01-26 10:44
 
 - account: _openvz_
   text: "pcompact is an Virtuozzo utility for compacting container virtual disks https://goo.gl/1S5r89"
@@ -81,6 +101,11 @@
 - account: _openvz_
   text: "Virtuozzo 7 Beta 2 Vagrant box is available https://goo.gl/chn2L0"
   date: 2016-01-25 17:17
+
+- account: _openvz_
+  text: "Kernel RHEL5 testing 028stab120.1 (rebase, fixed two security flaws: CVE-2015-5364,
+CVE-2015-5366) https://goo.gl/zVakvI"
+  date: 2016-01-25 14:17
 
 - account: _openvz_
   text: "vzmigrate is an Virtuozzo migration tool https://goo.gl/M7gb3j"
