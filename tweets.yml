@@ -14,9 +14,29 @@
   text: RT 434239363330105344
   date: 2016-02-14 13:13
 
+- account: estet
+  text: RT 690518551644344320
+  date: 2016-02-02 10:11
+
 - account: __criu__
   text: "We will also talk about live migration on DevConf.cz in February. See you in Brno! https://goo.gl/bivCGn"
   date: 2016-02-01 10:50
+
+#- account: estet
+#  text: "Hamurabi is one of the oldest text game (1969!) https://goo.gl/L31dsd Play in browser https://goo.gl/HcTzhA #ttygames"
+#  date: 2016-02-01 07:50
+
+#- account: estet
+#  text: RT 674918237788872704
+#  date: 2016-02-02 08:43
+
+- account: estet
+  text: RT 690316446996426752
+  date: 2016-01-31 04:11
+
+- account: estet
+  text: RT 690681351301824512
+  date: 2016-01-31 05:11
 
 - account: _openvz_
   text: "OpenVZ project is participate at FOSDEM: come to OpenVZ booth (K level 1, group C)"
@@ -73,6 +93,14 @@
 - account: __criu__
   text: RT 691559361731239936
   date: 2016-01-27 21:17
+
+- account: estet
+  text: RT 681786249124941824
+  date: 2016-01-27 13:44
+
+- account: estet
+  text: "Interview with James Bottomley @jejb_. How containers work in Linux. https://goo.gl/ZO9MDF #FOSDEM"
+  date: 2016-01-26 17:44
 
 - account: _openvz_
   text: "libprlxmlmodel is an Virtuozzo XML Model Library https://goo.gl/mX0MtV"
