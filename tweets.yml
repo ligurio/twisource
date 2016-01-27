@@ -87,6 +87,10 @@
   date: 2016-01-28 18:17
 
 - account: _openvz_
+  text: "Latest changes in Virtuozzo 7 development (new portion of the Virtuozzo source code, upcoming events) https://goo.gl/ww6Yti"
+  date: 2016-01-27 19:18
+
+- account: _openvz_
   text: "Schedule of Containers and Process Isolation devroom https://goo.gl/jkrc51 // CC: @fosdem"
   date: 2016-01-27 18:01
 
