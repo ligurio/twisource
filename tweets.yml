@@ -39,19 +39,19 @@
   date: 2016-01-31 05:11
 
 - account: _openvz_
-  text: "OpenVZ project is participate at FOSDEM: come to OpenVZ booth (K level 1, group C)"
+  text: "OpenVZ project is participate at #FOSDEM: come to #OpenVZ booth (K level 1, group C)"
   date: 2016-01-31 10:24
 
 - account: __criu__
-  text: "Right now: New horizons for the CRIU project -- Pavel Emelyanov https://goo.gl/wjfFql #FOSDEM"
+  text: "Right now: New horizons for the #CRIU project -- Pavel Emelyanov https://goo.gl/wjfFql #FOSDEM"
   date: 2016-01-30 14:05
 
 - account: _openvz_
-  text: "Containers devroom: New horizons for the CRIU project https://goo.gl/wjfFql #FOSDEM"
+  text: "Containers devroom: New horizons for the #CRIU project https://goo.gl/wjfFql #FOSDEM // CC: @__criu__"
   date: 2016-01-30 14:00
 
 - account: _openvz_
-  text: "Right now: LibCT and application containers https://goo.gl/7k57w0 #FOSDEM"
+  text: "Right now: #LibCT and application containers https://goo.gl/7k57w0 #FOSDEM"
   date: 2016-01-30 13:30
 
 - account: _openvz_
@@ -63,24 +63,32 @@
   date: 2016-01-30 12:00
 
 - account: _openvz_
-  text: "Meet OpenVZ developers at FOSDEM: OpenVZ booth (K level 1, group C) or Containers devroom (UA2.114)."
-  date: 2016-01-30 11:13
+  text: "Meet OpenVZ developers at #FOSDEM: OpenVZ booth (K level 1, group C) or Containers devroom (UA2.114)."
+  date: 2016-01-30 14:13
 
 - account: _openvz_
-  text: "Meet OpenVZ at FOSDEM 2016: The most important gathering of free software and open source enthusiasts in EU."
-  date: 2016-01-30 10:50
+  text: "Meet OpenVZ at #FOSDEM 2016: The most important gathering of free software and open source enthusiasts in EU."
+  date: 2016-01-30 11:01
 
 - account: _openvz_
   text: "Right now: Filesystem defragmentation strategies https://goo.gl/7rhFKF #FOSDEM"
   date: 2016-01-30 10:45
 
 - account: _openvz_
-  text: "Use FOSDEM Companion app and don't miss talks at Containers devroom https://goo.gl/e65oRm"
+  text: "Use #FOSDEM Companion app and don't miss talks at Containers devroom https://goo.gl/e65oRm"
   date: 2016-01-29 21:21
 
 - account: _openvz_
-  text: "We will have OpenVZ booth at upcoming @fosdem conference. Come to our stand to talk about Virtuozzo and CRIU https://goo.gl/Kxp6vn"
+  text: "We will have OpenVZ booth at upcoming @fosdem conference. Come to our stand to talk about #Virtuozzo and #CRIU https://goo.gl/Kxp6vn"
   date: 2016-01-29 20:13
+
+- account: _openvz_
+  text: "Call for testing: SimFS for #Virtuozzo 7 Containers https://goo.gl/RnnDx7"
+  date: 2016-01-29 08:16
+
+- account: _openvz_
+  text: "Call for testing: memory guarantees for containers and virtual machines #Virtuozzo https://goo.gl/R5cevp"
+  date: 2016-01-28 19:23
 
 - account: __criu__
   text: "CRIU 2.0 is approaching! Hopefully will be ready by March. https://goo.gl/xWLQb1"
