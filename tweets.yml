@@ -13,6 +13,10 @@
 - account: __criu__
   text: RT 712529564501688320
   date: 2016-03-30 13:13
+  
+- account: __criu__
+  text: We're looking for speakers for C/R miniconf http://wiki.linuxplumbersconf.org/2016:checkpoint-restart
+  date: 2016-03-30 15:20
 
 - account: __criu__
   text: RT 712443768633434112
@@ -20,4 +24,12 @@
   
 - account: __criu__
   text: RT 712272997495742464
-  date: 2016-30-31 10:10
+  date: 2016-03-31 10:10
+
+- account: __criu__
+  text: Compel is getting closer https://lists.openvz.org/pipermail/criu/2016-March/026656.html
+  date: 2016-03-31 15:15
+  
+- account: __criu__
+  text: DMTCP and OpenMPI people will join us at CR miniconf http://wiki.linuxplumbersconf.org/2016:checkpoint-restart
+  date: 2016-04-01 12:12
