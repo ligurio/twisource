@@ -33,3 +33,15 @@
 - account: __criu__
   text: DMTCP and OpenMPI people will join us at CR miniconf http://wiki.linuxplumbersconf.org/2016:checkpoint-restart
   date: 2016-04-01 12:12
+
+- account: __criu__
+  text: Meet @tonicdev who is actively using CRIU and drives its integration w/ @docker
+  date: 2016-04-01 19:31
+
+- account: __criu__
+  text: CRIU 2.1 is planned for April 11 and then we'll do monthly releases.
+  date: 2016-04-02 14:21
+
+- account: __criu__
+  text: BTW, we already have the release schedule for this year https://criu.org/Release_schedule
+  date: 2016-04-02 15:01
