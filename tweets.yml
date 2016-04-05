@@ -5,7 +5,7 @@
   date: 2016-03-30 13:13
   
 - account: __criu__
-  text: We're looking for speakers for C/R miniconf http://wiki.linuxplumbersconf.org/2016:checkpoint-restart
+  text: "We're looking for speakers for C/R miniconf http://wiki.linuxplumbersconf.org/2016:checkpoint-restart"
   date: 2016-03-30 15:20
 
 - account: __criu__
@@ -29,7 +29,7 @@
   date: 2016-04-01 19:31
 
 - account: __criu__
-  text: CRIU 2.1 is planned for April 11 and then we'll do monthly releases.
+  text: "CRIU 2.1 is planned for April 11 and then we'll do monthly releases."
   date: 2016-04-02 14:21
 
 - account: __criu__
@@ -41,16 +41,16 @@
   date: 2016-04-05 10:10
   
 - account: __criu__
-  text: Looks like "criú" in Irish means "the crew"
-  date: 2016-04-05 10:14
-  
-- account: __criu__
   text: And corsican "criu" is "to guess" or "to think"
   date: 2016-04-05 10:21
   
 - account: __criu__
-  text: Criu criu criú -- CRIU crew thinks %)
-  date: 2016-04-05 10:26
+  text: "Looks like \"criú\" in Irish means \"the crew\""
+  date: 2016-04-05 14:34
+
+- account: __criu__
+  text: "Criu criu criú -- CRIU crew thinks %)"
+  date: 2016-04-05 14:40
 
 - account: ProcessHauler
   text: RT 710478620951777280
