@@ -46,11 +46,11 @@
   
 - account: __criu__
   text: "Looks like \"criú\" in Irish means \"the crew\""
-  date: 2016-04-05 14:34
+  date: 2016-04-05 14:45
 
 - account: __criu__
   text: "Criu criu criú -- CRIU crew thinks %)"
-  date: 2016-04-05 14:40
+  date: 2016-04-05 14:45
 
 - account: ProcessHauler
   text: RT 710478620951777280
@@ -59,3 +59,15 @@
 - account: ProcessHauler
   text: "BTW Virtuozzo 7 uses P.Haul in Live migration http://goo.gl/aL5Gzy"
   date: 2016-04-06 10:12
+
+- account: __criu__
+  text: "Meet the 2.1 release!"
+  date: 2016-04-11 15:00
+  
+- account: __criu__
+  text: "We've started giving names to releases. Just for fun. The VERSION_NAME field is anyway unused in the sources."
+  date: 2016-04-11 16:00
+  
+- account: __criu__
+  text: "Bird of the month -- the Lapwing. Steel lapwing."
+  date: 2016-04-11 16:20
